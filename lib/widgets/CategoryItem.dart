@@ -5,7 +5,6 @@ class CategoryItem extends StatelessWidget {
   final Color iconColor;
   final double size;
   final IconData icon;
-
   final EdgeInsetsGeometry padding;
   final EdgeInsetsGeometry margin;
 
